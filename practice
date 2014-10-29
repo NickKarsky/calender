@@ -49,7 +49,7 @@ While it doesn't show all of the learning because of errors I've fixed, it does 
 <br>
 <p3> hahahahahahahahahahahaha</p3>
 <br><br><br><br><br><br><br>
-<img src="planets2013.jpg" usemap="#planetmap">
+<img src="http://upload.wikimedia.org/wikipedia/commons/a/a9/Planets2013.jpg" usemap="#planetmap">
 <map name="planetmap">
 	<area shape="circle" coords="234,288,5" href="http://www.planetsforkids.org/upload/-mercury-b.gif" target="_blank">
 	<area shape="circle" coords="281,288,10" href="http://upload.wikimedia.org/wikipedia/commons/8/85/Venus_globe.jpg" target="_blank">
