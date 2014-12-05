@@ -7,6 +7,4 @@ div {
 	border-width:5px;
 	display:block;
 }
-p{
-	color:blue;
-}
+
