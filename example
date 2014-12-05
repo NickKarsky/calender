@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>
+			Example
+		</title>
+	</head>
+	<body>
+		<div id="square" onclick="myFunction()">
+		</div>
+		<script>
+			function myFunction() {
+				document.getElementById("square").style.background = "gray";
+				window.open("http://www.google.com");
+			}
+		</script>
+	</body>
+</html>
